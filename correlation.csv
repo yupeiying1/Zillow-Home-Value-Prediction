@@ -1,0 +1,39 @@
+Neighborhood,,price,distance to subway
+Central Harlem,price,1.0,-0.1538567272333274
+Central Harlem,distance to subway,-0.1538567272333274,1.0
+Chelsea and Clinton,price,1.0,-0.01156995396537202
+Chelsea and Clinton,distance to subway,-0.01156995396537202,1.0
+East Harlem,price,1.0,0.058783545807574
+East Harlem,distance to subway,0.058783545807574,1.0
+Garment-District,price,1.0,-1.0
+Garment-District,distance to subway,-1.0,1.0
+Gramercy Park and Murray Hill,price,1.0,-0.1639054148313501
+Gramercy Park and Murray Hill,distance to subway,-0.1639054148313501,1.0
+Greenwich Village and Soho,price,1.0,0.03429936965228105
+Greenwich Village and Soho,distance to subway,0.03429936965228105,1.0
+Hells-Kitchen,price,1.0,0.3970005458753766
+Hells-Kitchen,distance to subway,0.3970005458753766,1.0
+Inwood and Washington Heights,price,1.0,0.0586425797928353
+Inwood and Washington Heights,distance to subway,0.0586425797928353,1.0
+Long Island City,price,1.0,0.10122331830748636
+Long Island City,distance to subway,0.10122331830748636,1.0
+Lower East Side,price,1.0,-0.1568751233993488
+Lower East Side,distance to subway,-0.1568751233993488,1.0
+Lower Manhattan,price,1.0,-0.06010091393330715
+Lower Manhattan,distance to subway,-0.06010091393330715,1.0
+Midtown,price,1.0,0.01516647481798245
+Midtown,distance to subway,0.01516647481798245,1.0
+Roosevelt Island,price,1.0,-0.1882851529606537
+Roosevelt Island,distance to subway,-0.1882851529606537,1.0
+Sutton-Place,price,1.0,-0.31473917009784264
+Sutton-Place,distance to subway,-0.31473917009784264,1.0
+Tudor-City,price,1.0,-0.02736620965682447
+Tudor-City,distance to subway,-0.02736620965682447,1.0
+Turtle-Bay,price,1.0,0.036732834209407705
+Turtle-Bay,distance to subway,0.036732834209407705,1.0
+Upper East Side,price,1.0,-0.167143523193985
+Upper East Side,distance to subway,-0.167143523193985,1.0
+Upper West Side,price,1.0,-0.06299687325143893
+Upper West Side,distance to subway,-0.06299687325143893,1.0
+murray-hill,price,1.0,-0.0007787127817254377
+murray-hill,distance to subway,-0.0007787127817254377,1.0
