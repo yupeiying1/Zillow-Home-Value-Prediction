@@ -1,14 +1,12 @@
 Neighborhood,,price,distance to subway
 Central Harlem,price,1.0,-0.1538567272333274
 Central Harlem,distance to subway,-0.1538567272333274,1.0
-Chelsea and Clinton,price,1.0,-0.01156995396537202
-Chelsea and Clinton,distance to subway,-0.01156995396537202,1.0
+Chelsea and Clinton,price,1.0,-0.011453072625021451
+Chelsea and Clinton,distance to subway,-0.011453072625021451,1.0
 East Harlem,price,1.0,0.058783545807574
 East Harlem,distance to subway,0.058783545807574,1.0
-Garment-District,price,1.0,-1.0
-Garment-District,distance to subway,-1.0,1.0
-Gramercy Park and Murray Hill,price,1.0,-0.1639054148313501
-Gramercy Park and Murray Hill,distance to subway,-0.1639054148313501,1.0
+Gramercy Park and Murray Hill,price,1.0,-0.14946927817497707
+Gramercy Park and Murray Hill,distance to subway,-0.14946927817497707,1.0
 Greenwich Village and Soho,price,1.0,0.03429936965228105
 Greenwich Village and Soho,distance to subway,0.03429936965228105,1.0
 Hells-Kitchen,price,1.0,0.3970005458753766
@@ -35,5 +33,3 @@ Upper East Side,price,1.0,-0.167143523193985
 Upper East Side,distance to subway,-0.167143523193985,1.0
 Upper West Side,price,1.0,-0.06299687325143893
 Upper West Side,distance to subway,-0.06299687325143893,1.0
-murray-hill,price,1.0,-0.0007787127817254377
-murray-hill,distance to subway,-0.0007787127817254377,1.0
