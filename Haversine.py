@@ -1,3 +1,4 @@
+#Implementation of Haversine formula: https://en.wikipedia.org/wiki/Haversine_formula
 import math
 
 def distance(origin, destination):
